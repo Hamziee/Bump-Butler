@@ -1,7 +1,3 @@
-Sure! Here’s a README for the Bump Butler program:
-
----
-
 # Bump Butler
 
 Bump Butler is a proof-of-concept program developed to test if it was possible to automate server bumping on Disboard in Discord.
