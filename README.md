@@ -48,7 +48,7 @@ python main.py
 
 If set up correctly, the bot will respond with "ok" and bump every 2 hours.
 
-The program will only start with the message specified by the `ownerID` and `startMessage` in the `.env` file.
+The bot will only start bumping with the message specified by the `ownerID` and `startMessage` in the `.env` file.
 
 ## Important Notes
 
