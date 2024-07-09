@@ -1,10 +1,11 @@
 # Bump Butler
 
 Bump Butler is a proof-of-concept program developed to test if it was possible to automate server bumping on Disboard in Discord.
+Made for educational purposes ofcourse!
 
 ## Disclaimer
 
-Using Bump Butler or similar tools will violate Discord's ToS and can result in account suspension or a permanent ban. By using Bump Butler, you acknowledge that you are violating Discord's ToS and accept all associated risks. The developers of Bump Butler do not endorse or encourage any activity that breaches Discord's ToS and are not responsible for any consequences arising from the use of this software.
+Using Bump Butler or similar tools will violate Discord's ToS and will result in account suspension or a permanent ban. By using Bump Butler, you acknowledge that you are violating Discord's ToS and accept all associated risks. The developers of Bump Butler do not endorse or encourage any activity that breaches Discord's ToS and are not responsible for any consequences arising from the use of this software.
 
 ## Requirements
 
